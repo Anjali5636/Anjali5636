@@ -6,10 +6,9 @@ a passion for coding and creating innovative solutions. This README is my playgr
 <strong> Programming Languages&nbsp:</strong>&nbsp&nbsp&nbsp JAVA, HTML, CSS, JavaScript<br>
 <strong> Frameworks/Libraries&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp Bootstrap, React.js, Express.js<br>
 <strong> Databases&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp&nbsp MySQL, MongoDB<br>
-<strong> Developer Tools&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp  Git/Github, Google Colab, VS Code,<br>
+<strong> Developer Tools&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp  Git/Github, Google Colab, VS Code<br>
 <strong> Academic Coursework&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp Data Structures, Operating System (Windows,Unix/Linux), OOPs, DBMS , CN<br>
-<strong> Interests&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp&nbsp  Reading Books,
-  Learning new skills, Listening to music, Team work<br>
+<strong> Interests&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp&nbsp  Programming And Development, Playing Games<br>
   <h3 align="left">PROJECTS</h3>
 <strong>  Responsive Calculator&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp Developed a fully responsive web application leveraging HTML, CSS, and JavaScript.realtime content &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp updates and implemented advanced searchfunctionality.Focused on functionalities optimized user  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp experience with intuitive design and seamless navigation.<br>
 <strong> WonderLust&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp Developed a classic WonderLust web site using frontend like HTML, CSS,andJavaScript, 

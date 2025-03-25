@@ -7,8 +7,7 @@ a passion for coding and creating innovative solutions. This README is my playgr
 <strong> Frameworks/Libraries&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp Bootstrap, React.js, Express.js<br>
 <strong> Databases&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp&nbsp MySQL, MongoDB<br>
 <strong> Developer Tools&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp  Git/Github, Google Colab, VS Code,<br>
-<strong> Academic Coursework&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp Data Structures, Operating System (Windows,Unix/Linux), OOPs, DBMS , CD,
- OOP, DBMS<br>
+<strong> Academic Coursework&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong> &nbsp&nbsp&nbsp Data Structures, Operating System (Windows,Unix/Linux), OOPs, DBMS , CN,<br>
 <strong> Interests&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:</strong>&nbsp&nbsp&nbsp&nbsp  Reading Books,
   Learning new skills, Listening to music, Team work<br>
   <h3 align="left">PROJECTS</h3>

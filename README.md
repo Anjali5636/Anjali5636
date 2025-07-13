@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ontipuli Anjali</h1>
 <h3 align="left">About Me</h3>
-<p>I'm Anjali,a third year Computer Science & Engineering (AI&ML) Student at Sir RK Engineering College with<br>
+<p>I'm Anjali, 4th Artificial Intelligence and Machine Learning Student at Sir RK Engineering College with<br>
 a passion for coding and creating innovative solutions. This README is my playground to showcase my joueney.</p>
 <h3 align="left">Skills & Interests</h3>
 <strong> Programming Languages&nbsp:</strong>&nbsp&nbsp&nbsp JAVA, HTML, CSS, JavaScript<br>
